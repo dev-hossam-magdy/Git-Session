@@ -9,5 +9,6 @@ class Splash : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
 
+        var x = 5;
     }
 }
